@@ -1,5 +1,16 @@
 "use strict";
 
+const form = document.querySelector("#profileForm");
+const nameInput = document.querySelector("#displayName");
+const roleInput = document.querySelector("#role");
+const technologyInput = document.querySelector("#technology");
+const resetButton = document.querySelector("#resetButton");
+const cardName = document.querySelector("#cardName");
+const cardRole = document.querySelector("#cardRole");
+const cardTechnology = document.querySelector("#cardTechnology");
+const updateCountOutput = document.querySelector("#updateCount");
+const statusMessage = document.querySelector("#statusMessage");
+
 /*
  * JavaScript + Git alapozó projekt
  *

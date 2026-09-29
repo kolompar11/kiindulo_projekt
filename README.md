@@ -30,7 +30,7 @@ Nincs telepítendő függőség és nincs buildlépés.
 
 ## Készítő
 
-Név: _Írd ide a nevedet!_
+Név: _Varga Marcell_
 
 ## Tesztelés
 
